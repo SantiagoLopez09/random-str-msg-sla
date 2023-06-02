@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-sla",
+  "version": "1.0.0",
+  "description": "random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santiago López Alarcón <santiagolopeza30@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiagoLopez09/random-str-msg-sla/issues"
+  },
+  "homepage": "https://github.com/SantiagoLopez09/random-str-msg-sla#readme",
+  "bin": {
+    "random-stringmsg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
